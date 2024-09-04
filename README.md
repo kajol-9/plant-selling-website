@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ![Plant Seller Logo](https://res.cloudinary.com/dcd6y2awx/image/upload/v1709673317/PlantSeller/UI%20Images/plant_seller_bg_none.png)
 
 ---
@@ -133,3 +134,6 @@ For any inquiries or support, please contact [Piyush Raj](piyushraj2340@gmail.co
 ---
 
 ---
+=======
+# plant-selling-website
+>>>>>>> 34993948937668de9fcd4202490853fe80158d2e
